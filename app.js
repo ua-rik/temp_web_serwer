@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
                 <p>Welcome to our website.</p>
             </body>
         </html>
-    \`);
+    `);
 })
 
 app.listen(port, () => {
